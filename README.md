@@ -6,6 +6,8 @@ MSGamgee85 here.
 
  🤔 I’m looking for help with Python programming.
 
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHkxZDF3c213YjZybTdkYThqd2J3dno2dGo1NDUwdXZlMjVwaXF0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif
+
 <!--
 **MSGamgee85/MSGamgee85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
