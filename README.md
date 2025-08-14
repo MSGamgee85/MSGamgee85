@@ -2,13 +2,16 @@
 
 **MSGamgee85** here.                                           
 
-| Input | Output |
+| **Input** | **Output** |
 |------|---------------|
-|🎓 Education| Math and Physics |
-|🌱 I'm currently learning   |  Financial Engineering|
-|🤔 I’m looking for help with|Python programming|
+|🎓 Education| `Math and Physics` |
+|🌱 I'm currently learning   |  `Financial engineering`|
+|🤔 I’m looking for help with|`Python programming`|
 
 ![python](https://github.com/user-attachments/assets/ea4ae5b3-a02a-4e39-85d0-b09ed3a13493)
+
+
+> In Python we trust
 
 
 
