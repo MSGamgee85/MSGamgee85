@@ -1,12 +1,12 @@
 ## Hi there! 👋
 
-MSGamgee85 here. 
+**MSGamgee85** here.                                           
 
- 🌱 I'm currently learning Financial Engineering.
-
- 🤔 I’m looking for help with Python programming.
+🎓 Education: Math and Physics.
+🌱 I'm currently learning Financial Engineering.                                                                                                     
+🤔 I’m looking for help with Python programming.|
  
-![python](https://github.com/user-attachments/assets/4f531281-de8c-4ff5-b083-07b45d6109f3)
+
 
 <!--
 **MSGamgee85/MSGamgee85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
