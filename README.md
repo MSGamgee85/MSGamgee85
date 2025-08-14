@@ -3,7 +3,9 @@
 **MSGamgee85** here.                                           
 
 🎓 Education: Math and Physics.
+
 🌱 I'm currently learning Financial Engineering.                                                                                                     
+
 🤔 I’m looking for help with Python programming.
  
 
