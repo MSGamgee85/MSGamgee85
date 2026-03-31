@@ -2,15 +2,13 @@
 
 **MSGamgee85** here.
 
-Financial engineer wannabe.
-
 | **Input** | **Output** |
 |------|---------------|
 |🎓 Education| `Math and Physics` |
 |🌱 I'm currently learning   |  `Financial engineering`|
 |🤔 I’m looking for help with|`Python programming`|
 
-<img src="https://github.com/user-attachments/assets/ea4ae5b3-a02a-4e39-85d0-b09ed3a13493" width="300" />
+<img src="https://github.com/user-attachments/assets/ea4ae5b3-a02a-4e39-85d0-b09ed3a13493" width="350" />
 
 
 > In Python we trust!
