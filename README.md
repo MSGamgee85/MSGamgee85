@@ -1,6 +1,8 @@
 ## Hi there! 👋
 
-**MSGamgee85** here.                                           
+**MSGamgee85** here.
+
+Financial engineer wannabe.
 
 | **Input** | **Output** |
 |------|---------------|
