@@ -12,7 +12,7 @@ Financial engineer wannabe.
 
 ![python](https://github.com/user-attachments/assets/ea4ae5b3-a02a-4e39-85d0-b09ed3a13493)
 
-<img src="https://github.com/user-attachments/assets/ea4ae5b3-a02a-4e39-85d0-b09ed3a13493.gif" width="300" />
+<img src="https://github.com/user-attachments/assets/ea4ae5b3-a02a-4e39-85d0-b09ed3a13493" width="300" />
 
 
 > In Python we trust
