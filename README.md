@@ -15,10 +15,8 @@ Currently focused on developing projects involving:
 - Python
 - SQL
 - Data Analytics
-- APIs
 - Automation
 - Financial/Data Systems
-- AI-assisted workflows
 
 ---
 
