@@ -8,7 +8,6 @@ I'm a professional transitioning into data-driven and technology-focused roles, 
 - Credit & Backoffice Processes
 - Data Analysis
 - Business Intelligence
-- Automation & Process Optimization
 
 Currently focused on developing projects involving:
 
