@@ -20,7 +20,67 @@ Currently focused on developing projects involving:
 - Financial/Data Systems
 - AI-assisted workflows
 
+---
 
+## 🚀 Tech Stack
+
+### Languages & Data
+- Python
+- SQL
+- HTML/CSS
+
+### Data & Analytics
+- Pandas
+- NumPy
+- Matplotlib
+- Excel Advanced
+- Data Visualization
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+- Notion
+- Linux basics
+
+---
+
+## 📌 Current Goals
+
+- Build real-world data projects
+- Develop automation solutions
+- Expand portfolio focused on fintech and analytics
+- Contribute to open-source and collaborative projects
+- Transition into Data / Financial Analytics roles
+
+---
+
+## 📂 Featured Projects
+
+Here you'll find projects related to:
+
+- Financial analysis
+- Python scripting
+- Data cleaning & transformation
+
+---
+
+## 📈 Currently Learning
+
+- Machine Learning fundamentals
+- Advanced Python
+- AI tools for productivity & analytics
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: [linkedin.com/in/alexandre-galetti](https://linkedin.com/in/alexandre-galetti)
+- GitHub: [github.com/MSGamgee85](https://github.com/MSGamgee85)
+
+---
+
+⭐ Always learning, building and improving.
 
                                                                                                   
 
