@@ -1,17 +1,24 @@
-## Hi there! 👋
+# Hi there, I'm Alexandre Galetti 👋
 
-**MSGamgee85** here.
+## Data • Finance • Automation • Technology
 
-| **Input** | **Output** |
-|------|---------------|
-|🎓 Education| `Math and Physics` |
-|🌱 I'm currently learning   |  `Financial engineering`|
-|🤔 I’m looking for help with|`Python programming`|
+I'm a professional transitioning into data-driven and technology-focused roles, with experience in:
 
-<img src="https://github.com/user-attachments/assets/ea4ae5b3-a02a-4e39-85d0-b09ed3a13493" width="300" />
+- Financial Operations
+- Credit & Backoffice Processes
+- Data Analysis
+- Business Intelligence
+- Automation & Process Optimization
 
+Currently focused on developing projects involving:
 
-> In Python we trust!
+- Python
+- SQL
+- Data Analytics
+- APIs
+- Automation
+- Financial/Data Systems
+- AI-assisted workflows
 
 
 
