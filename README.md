@@ -13,7 +13,6 @@ I'm a professional transitioning into data-driven and technology-focused roles, 
 Currently focused on developing projects involving:
 
 - Python
-- SQL
 - Data Analytics
 - Automation
 - Financial/Data Systems
