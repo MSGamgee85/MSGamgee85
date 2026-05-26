@@ -1,6 +1,6 @@
 # Hi there, I'm Alexandre Galetti 👋
 
-## Data • Finance • Automation • Technology
+## Data • Finance • Analytics • Technology
 
 ---
 
