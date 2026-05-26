@@ -2,6 +2,8 @@
 
 ## Data • Finance • Automation • Technology
 
+---
+
 I'm a professional transitioning into data-driven and technology-focused roles, with experience in:
 
 - Financial Operations
@@ -13,7 +15,6 @@ Currently focused on developing projects involving:
 
 - Python
 - Data Analytics
-- Automation
 - Financial/Data Systems
 
 ---
@@ -37,14 +38,13 @@ Currently focused on developing projects involving:
 - VS Code
 - Jupyter Notebook
 - Notion
-- Linux basics
+- Linux
 
 ---
 
 ## 📌 Current Goals
 
 - Build real-world data projects
-- Develop automation solutions
 - Expand portfolio focused on fintech and analytics
 - Contribute to open-source and collaborative projects
 - Transition into Data / Financial Analytics roles
