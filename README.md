@@ -15,7 +15,7 @@ Currently focused on developing projects involving:
 
 - Python
 - Data Analytics
-- Financial/Data Systems
+- Financial/Data Systems and Models
 
 ---
 
