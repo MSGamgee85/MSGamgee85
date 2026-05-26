@@ -21,7 +21,7 @@ Currently focused on developing projects involving:
 
 ## 🚀 Tech Stack
 
-### Languages & Data
+### Languages
 - Python
 - SQL
 - HTML/CSS
@@ -43,7 +43,7 @@ Currently focused on developing projects involving:
 
 ---
 
-## 📌 Current Goals
+## 🎯 Current Goals
 
 - Build real-world data projects
 - Expand portfolio focused on fintech and analytics
@@ -62,7 +62,7 @@ Here you'll find projects related to:
 
 ---
 
-## 📈 Currently Learning
+## 💻 Currently Learning
 
 - Machine Learning fundamentals
 - Advanced Python
@@ -70,10 +70,11 @@ Here you'll find projects related to:
 
 ---
 
-## 🤝 Let's Connect
+## 🫱🏼‍🫲🏼 Let's Connect
 
 - LinkedIn: [linkedin.com/in/alexandre-galetti](https://linkedin.com/in/alexandre-galetti)
 - GitHub: [github.com/MSGamgee85](https://github.com/MSGamgee85)
+- E-mail: alexandre.galetti@gmail.com
 
 ---
 
