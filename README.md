@@ -37,6 +37,7 @@ Currently focused on developing projects involving:
 - Git & GitHub
 - VS Code
 - Jupyter Notebook
+- Power BI
 - Notion
 - Linux
 
