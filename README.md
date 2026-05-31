@@ -94,7 +94,7 @@ Here you'll find projects related to:
 ---
 <div align="center">
   
-⭐ "Always learning, building and improving."
+⭐ _"Always learning, building and improving."_
 
 </div>
                                                                                                   
