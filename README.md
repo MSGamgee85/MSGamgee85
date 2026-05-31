@@ -56,7 +56,7 @@ Currently focused on developing projects involving:
 
 ---
 
-## 📂 Featured Projects
+## <a name="featured-projects"> 📂 Featured Projects </a>
 
 Here you'll find projects related to:
 
@@ -66,7 +66,7 @@ Here you'll find projects related to:
 
 ---
 
-## 💻 Currently Learning
+## <a name="currently-learning"> 💻 Currently Learning </a>
 
 - Machine Learning fundamentals
 - Advanced Python
@@ -74,7 +74,7 @@ Here you'll find projects related to:
 
 ---
 
-## 🫱🏼‍🫲🏼 Let's Connect
+## <a name="lets-connect"> 🫱🏼‍🫲🏼 Let's Connect </a>
 
 - LinkedIn: [linkedin.com/in/alexandre-galetti](https://linkedin.com/in/alexandre-galetti)
 - GitHub: [github.com/MSGamgee85](https://github.com/MSGamgee85)
