@@ -47,7 +47,7 @@ Currently focused on developing projects involving:
 
 ---
 
-## 🎯 Current Goals
+## <a name="current-goals"> 🎯 Current Goals </a>
 
 - Build real-world data projects
 - Expand portfolio focused on fintech and analytics
