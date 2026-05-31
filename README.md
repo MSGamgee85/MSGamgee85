@@ -14,12 +14,11 @@
 
 I'm a professional transitioning into `data-driven` and `technology-focused` roles, with experience in:
 
-> [!IMPORTANT]
-> - Financial Operations
-> - Credit & Backoffice Processes
-> - Data Analysis
-> - Business Intelligence
-> - Applied Mathematics
+- Financial Operations
+- Credit & Backoffice Processes
+- Data Analysis
+- Business Intelligence
+- Applied Mathematics
 
 Currently focused on developing projects involving:
 
@@ -32,10 +31,11 @@ Currently focused on developing projects involving:
 ## <a name=“tech-stack”> 🚀 Tech Stack </a>
 
 ### Languages
+```console
 - Python
 - SQL
 - HTML/CSS
-
+```
 ### Data & Analytics
 - Pandas
 - NumPy
