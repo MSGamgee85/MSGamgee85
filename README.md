@@ -30,7 +30,7 @@ Currently focused on developing projects involving:
 
 ---
 
-## <a name=“-tech-box”> 🧰 Tech Box </a>
+## 🧰 Tech Box
 
 ### Languages
 ```console
