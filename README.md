@@ -5,7 +5,7 @@
 
 ## Data • Finance • Analytics • Technology
 
-[Tech Stack](#tech-stack) 
+[Tech Stack](#tech-stack) [Current Goals](#current-goals) [Feature Projects](#feature-projects) [Currently Learning](#currently-learning) [Let's Connect](#lets-connect)  
 
 I'm a professional transitioning into data-driven and technology-focused roles, with experience in:
 
