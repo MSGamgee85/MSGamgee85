@@ -8,7 +8,7 @@
 
 ## Data • Finance • Analytics • Technology
 
-[Tech Stack](#tech-stack) | [Current Goals](#current-goals) | [Featured Projects](#featured-projects) | [Currently Learning](#currently-learning) | [Let's Connect](#lets-connect)  
+[Tech Box](#tech-box) | [Current Goals](#current-goals) | [Featured Projects](#featured-projects) | [Currently Learning](#currently-learning) | [Contact](#contact)  
 
 </div>
 
@@ -28,7 +28,7 @@ Currently focused on developing projects involving:
 
 ---
 
-## <a name=“tech-stack”> 🚀 Tech Stack </a>
+## <a name=“tech-box”> 🧰 Tech Box </a>
 
 ### Languages
 ```console
@@ -82,7 +82,7 @@ Here you'll find projects related to:
 
 ---
 
-## <a name="lets-connect"> 🫱🏼‍🫲🏼 Let's Connect </a>
+## <a name="contact"> 📫 Contact </a>
 
 - LinkedIn: [linkedin.com/in/alexandre-galetti](https://linkedin.com/in/alexandre-galetti)
 - GitHub: [github.com/MSGamgee85](https://github.com/MSGamgee85)
