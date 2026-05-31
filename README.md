@@ -26,7 +26,7 @@ Currently focused on developing projects involving:
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 - Python
