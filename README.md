@@ -20,13 +20,14 @@ I'm a professional transitioning into `data-driven` and `technology-focused` rol
 - Credit & Backoffice Processes
 - Data Analysis
 - Business Intelligence
-- Applied Mathematics
+- Finance Applied Mathematics
 
-Currently focused on developing projects involving:
+Currently focused on `developing projects` involving:
 
 - Python
 - Data Analytics
-- Financial/Data Systems and Models
+- Credit Risk Models
+- Brazilian Bonds and Derivatives Pricing Models
 
 ---
 
