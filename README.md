@@ -8,7 +8,7 @@
 
 ## Data • Finance • Analytics • Technology
 
-[Tech Box](#tech-box) | [Current Goals](#current-goals) | [Featured Projects](#featured-projects) | [Currently Learning](#currently-learning) | [Contact](#contact)  
+[Tech Box](#-tech-box) | [Current Goals](#current-goals) | [Featured Projects](#featured-projects) | [Currently Learning](#currently-learning) | [Contact](#contact)  
 
 </div>
 
@@ -30,7 +30,7 @@ Currently focused on developing projects involving:
 
 ---
 
-## <a name=“tech-box”> 🧰 Tech Box </a>
+## <a name=“-tech-box”> 🧰 Tech Box </a>
 
 ### Languages
 ```console
