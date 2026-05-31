@@ -8,7 +8,7 @@
 
 ## Data • Finance • Analytics • Technology
 
-[Tech Box](#-tech-box) | [Current Goals](#current-goals) | [Featured Projects](#featured-projects) | [Currently Learning](#currently-learning) | [Contact](#contact)  
+[Tech Box](#-tech-box) | [Current Goals](#-current-goals) | [Featured Projects](#-featured-projects) | [Currently Learning](#-currently-learning) | [Contact](#-contact)
 
 </div>
 
@@ -57,7 +57,7 @@ Currently focused on developing projects involving:
 ```
 ---
 
-## <a name="current-goals"> 🎯 Current Goals </a>
+## 🎯 Current Goals
 
 - Build real-world data projects
 - Expand portfolio focused on fintech and analytics
@@ -66,7 +66,7 @@ Currently focused on developing projects involving:
 
 ---
 
-## <a name="featured-projects"> 📂 Featured Projects </a>
+## 📂 Featured Projects
 
 Here you'll find projects related to:
 
@@ -76,7 +76,7 @@ Here you'll find projects related to:
 
 ---
 
-## <a name="currently-learning"> 💻 Currently Learning </a>
+## 💻 Currently Learning
 
 - Machine Learning fundamentals
 - Advanced Python
@@ -84,7 +84,7 @@ Here you'll find projects related to:
 
 ---
 
-## <a name="contact"> 📫 Contact </a>
+## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/alexandre-galetti](https://linkedin.com/in/alexandre-galetti)
 - GitHub: [github.com/MSGamgee85](https://github.com/MSGamgee85)
