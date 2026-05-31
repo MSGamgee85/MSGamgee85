@@ -12,6 +12,8 @@
 
 </div>
 
+---
+
 I'm a professional transitioning into `data-driven` and `technology-focused` roles, with experience in:
 
 - Financial Operations
