@@ -1,4 +1,4 @@
-# Hi there, I'm Alexandre Galetti 👋
+# Hi there, I'm Alexandre👋🏻
 
 <div align="center">
   
@@ -37,20 +37,22 @@ Currently focused on developing projects involving:
 - HTML/CSS
 ```
 ### Data & Analytics
+```console
 - Pandas
 - NumPy
 - Matplotlib
 - Excel Advanced
 - Data Visualization
-
+```
 ### Tools & Platforms
+```console
 - Git & GitHub
 - VS Code
 - Jupyter Notebook
 - Power BI
 - Notion
 - Linux
-
+```
 ---
 
 ## <a name="current-goals"> 🎯 Current Goals </a>
