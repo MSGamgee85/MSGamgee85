@@ -5,11 +5,12 @@
 
 ## Data • Finance • Analytics • Technology
 
-[Tech Stack](##tech-stack)
+[Tech Stack](##tech-stack) 
 
 I'm a professional transitioning into data-driven and technology-focused roles, with experience in:
 
->
+[!Important]
+
 - Financial Operations
 - Credit & Backoffice Processes
 - Data Analysis
