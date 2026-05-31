@@ -23,7 +23,7 @@ Currently focused on developing projects involving:
 
 ---
 
-## <a name=“tech-stack”> 🚀 Tech Stack <a/>
+## <a name=“tech-stack”> 🚀 Tech Stack </a>
 
 ### Languages
 - Python
