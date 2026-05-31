@@ -12,13 +12,14 @@
 
 </div>
 
-I'm a professional transitioning into data-driven and technology-focused roles, with experience in:
+I'm a professional transitioning into `data-driven` and `technology-focused` roles, with experience in:
 
-- Financial Operations
-- Credit & Backoffice Processes
-- Data Analysis
-- Business Intelligence
-- Applied Mathematics
+> [!IMPORTANT]
+> - Financial Operations
+> - Credit & Backoffice Processes
+> - Data Analysis
+> - Business Intelligence
+> - Applied Mathematics
 
 Currently focused on developing projects involving:
 
@@ -57,7 +58,7 @@ Currently focused on developing projects involving:
 - Build real-world data projects
 - Expand portfolio focused on fintech and analytics
 - Contribute to open-source and collaborative projects
-- Transition into Data / Financial Analytics roles
+- Transition into `Data / Financial Analytics` roles
 
 ---
 
