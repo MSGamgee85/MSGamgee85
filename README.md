@@ -43,7 +43,7 @@ Currently focused on developing projects involving:
 - Pandas
 - NumPy
 - Matplotlib
-- Excel Advanced
+- Advanced Excel
 - Data Visualization
 ```
 ### Tools & Platforms
