@@ -60,9 +60,9 @@ Currently focused on `developing projects` involving:
 
 ## 🎯 Current Goals
 
-- Build real-world data projects
-- Expand portfolio focused on fintech and analytics
-- Contribute to open-source and collaborative projects
+- Build `real-world data` projects
+- Expand portfolio focused on `fintech` and analytics
+- Contribute to `open-source` and collaborative projects
 - Transition into `Data / Financial Analytics` roles
 
 ---
