@@ -34,7 +34,7 @@ Currently focused on `developing projects` involving:
 ## 🧰 Tech Box
 
 ### Languages
-```console
+```python
 - Python
 - SQL
 - HTML/CSS
