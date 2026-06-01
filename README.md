@@ -48,7 +48,7 @@ Currently focused on `developing projects` involving:
 - Data Visualization
 ```
 ### Tools & Platforms
-```console
+```bash
 - Git & GitHub
 - VS Code
 - Jupyter Notebook
