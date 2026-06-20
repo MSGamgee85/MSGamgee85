@@ -16,18 +16,18 @@
 
 I'm a professional transitioning into `data-driven` and `technology-focused` roles, with experience in:
 
-- Financial Operations
-- Credit & Backoffice Processes
-- Data Analysis
-- Business Intelligence
-- Finance Applied Mathematics
+* Financial Operations
+* Credit & Backoffice Processes
+* Data Analysis
+* Business Intelligence
+* Finance Applied Mathematics
 
 Currently focused on `developing projects` involving:
 
-- Python
-- Data Analytics
-- Credit Risk Models
-- Brazilian Bonds and Derivatives Pricing Models
+* Python
+* Data Analytics
+* Credit Risk Models
+* Brazilian Bonds and Derivatives Pricing Models
 
 ---
 
@@ -35,26 +35,25 @@ Currently focused on `developing projects` involving:
 
 ### Languages
 ```python
-- Python
-- SQL
-- HTML/CSS
+* Python
+* SQL
+* HTML/CSS
 ```
 ### Data & Analytics
-```console
-- Pandas
-- NumPy
-- Matplotlib
-- Advanced Excel
-- Data Visualization
+```python
+* Pandas
+* NumPy
+* Matplotlib
+* Advanced Excel
 ```
 ### Tools & Platforms
-```bash
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Power BI
-- Notion
-- Linux
+```python
+* Git & GitHub
+* VS Code
+* Jupyter Notebook
+* Power BI
+* Notion
+* Linux
 ```
 ---
 
