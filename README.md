@@ -93,7 +93,7 @@ Here you'll find projects related to:
 ---
 <div align="center">
   
-⭐ _"Always learning, building and improving."_
+⭐ "Always learning, building and improving."
 
 </div>
                                                                                                   
