@@ -1,17 +1,21 @@
-## Hi there! 👋
+![finance]([https://github.com/user-attachments/assets/ea4ae5b3-a02a-4e39-85d0-b09ed3a13493](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm4wNWJ2NXZjYjVuN3h5eW1vcDdyamd2MTFhaDNvN3JnOXpteWhyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wd9lhEQy2ZqQ8/giphy.gif))
 
-**MSGamgee85** here.                                           
+`egf` stands for `Finance Engineering` in brazilian portuguese.
 
-| **Input** | **Output** |
-|------|---------------|
-|🎓 Education| `Math and Physics` |
-|🌱 I'm currently learning   |  `Financial engineering`|
-|🤔 I’m looking for help with|`Python programming`|
+Here you'll find some of the academic work I executed throughout my MBA.
 
-![python](https://github.com/user-attachments/assets/ea4ae5b3-a02a-4e39-85d0-b09ed3a13493)
+Finance Engineering is a field of study based on math and computer programming tools for finance quantitative analysis.
+
+Some important problems that egf targets include:
+```python
+-------------------------
+* derivatives pricing
+* portfolio optimization
+* risk management
+-------------------------
+```
 
 
-> In Python we trust
 
 
 
