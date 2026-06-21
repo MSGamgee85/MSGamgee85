@@ -18,11 +18,12 @@ Finance Engineering is a field of study based on math and computer programming t
 
 Some important **problems** that egf targets include:
 ```python
--------------------------
+---------------------------------
 * derivatives pricing
 * portfolio optimization
 * risk management
--------------------------
+* game theory applied in finance
+---------------------------------
 ```
 
 This branch is `under construction`. 
