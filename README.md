@@ -1,6 +1,7 @@
 
 ---
-### Welcome to the home of Financial Engineering! 
+## Welcome to the home of Financial Engineering! 
+
 ---
 
 <div align = "center">
