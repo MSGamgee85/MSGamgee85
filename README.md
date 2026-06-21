@@ -1,4 +1,4 @@
-![finance]([https://github.com/user-attachments/assets/ea4ae5b3-a02a-4e39-85d0-b09ed3a13493](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm4wNWJ2NXZjYjVuN3h5eW1vcDdyamd2MTFhaDNvN3JnOXpteWhyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wd9lhEQy2ZqQ8/giphy.gif))
+![finance](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm4wNWJ2NXZjYjVuN3h5eW1vcDdyamd2MTFhaDNvN3JnOXpteWhyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wd9lhEQy2ZqQ8/giphy.gif)
 
 `egf` stands for `Finance Engineering` in brazilian portuguese.
 
