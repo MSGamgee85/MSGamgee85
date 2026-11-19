@@ -13,15 +13,7 @@
 
 ---
 
-I'm a professional transitioning into `data-driven` and `technology-focused` roles, with experience in:
-
-* Financial Operations
-* Credit and Backoffice Processes
-* Data Analysis
-* Business Intelligence
-* Finance Applied Mathematics
-
-Currently focused on `developing projects` involving:
+I'm a professional transitioning into `data-driven` and `technology-focused` roles, currently `developing projects` involving:
 
 * Python
 * Data Analytics
@@ -46,23 +38,6 @@ Currently focused on `developing projects` involving:
 * Matplotlib
 * Advanced Excel
 ```
-### Tools & Platforms
-```python
-* Git & GitHub
-* VS Code
-* Jupyter Notebook
-* Power BI
-* Notion
-* Linux
-```
----
-
-## 🎯 Current Goals
-
-- Build `real-world data` projects
-- Expand portfolio focused on `fintech` and analytics
-- Contribute to `open-source` and collaborative projects
-- Transition into `Data / Financial Analytics` roles
 
 ---
 
@@ -70,17 +45,12 @@ Currently focused on `developing projects` involving:
 
 Here you'll find projects related to:
 
-- Financial analysis
-- Python scripting
-- Data cleaning & transformation
+- Financial engineering
+- Economics
+- Math
+- Physics
 
 ---
-
-## 💻 Currently Learning
-
-- Machine Learning fundamentals
-- Advanced Python
-- AI tools for productivity & analytics
 
 ---
 
