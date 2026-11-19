@@ -35,8 +35,9 @@ Currently focused on `developing projects` involving:
 ### Languages
 ```python
 * Python
-* SQL
 * HTML/CSS
+* Markdown
+* LaTeX
 ```
 ### Data & Analytics
 ```python
