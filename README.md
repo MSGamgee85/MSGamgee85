@@ -1,4 +1,4 @@
-# Hi there, I'm Alexandre👋🏻
+# Hi there! I'm Alexandre👋🏻
 
 <div align="center">
   
