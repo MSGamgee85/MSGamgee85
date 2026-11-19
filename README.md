@@ -41,19 +41,6 @@ I'm a professional transitioning into `data-driven` and `technology-focused` rol
 
 ---
 
-## 📂 Featured Projects
-
-Here you'll find projects related to:
-
-- Financial engineering
-- Economics
-- Math
-- Physics
-
----
-
----
-
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/alexandre-galetti](https://linkedin.com/in/alexandre-galetti)
