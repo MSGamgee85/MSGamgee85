@@ -13,7 +13,7 @@
 
 ## Data • Finance • Analytics • Technology
 
-[About_me](#-about-me) | [Tech Box](#-tech-box) | [Projects](#-projects) | [Contact](#-contact)
+[About me](#-about-me) | [Tech Box](#-tech-box) | [Projects](#-projects) | [Contact](#-contact)
 
 </div>
 
