@@ -51,7 +51,7 @@ I'm a professional transitioning into `data-driven` and `technology-focused` rol
 * Economics
 ```
 
-👉 You can check my **work** [here](https://github.com/MSGamgee85/Projetos).
+👉 You can check my work [here](https://github.com/MSGamgee85/Projetos).
 
 ---
 
