@@ -35,13 +35,6 @@ I'm a professional transitioning into `data-driven` and `technology-focused` rol
 * Markdown
 * LaTeX
 ```
-### Data and Analytics
-```python
-* Pandas
-* NumPy
-* Matplotlib
-* Advanced Excel
-```
 
 ---
 
