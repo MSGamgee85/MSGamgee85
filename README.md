@@ -13,17 +13,19 @@
 
 ## Data • Finance • Analytics • Technology
 
-[Tech Box](#-tech-box) | [Current Goals](#-current-goals) | [Featured Projects](#-featured-projects) | [Currently Learning](#-currently-learning) | [Contact](#-contact)
+[About_me](#-about-me) | [Tech Box](#-tech-box) | [Projects](#-projects) | [Contact](#-contact)
 
 </div>
 
 ---
 
+## 😎 About me
+
 I'm a professional transitioning into `data-driven` and `technology-focused` roles, currently `developing projects` involving:
 
 * Python
 * Data Analytics
-* Credit Risk Models
+* Risk Management Models
 * Brazilian Bonds and Derivatives Pricing Models
 
 ---
