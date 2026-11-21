@@ -46,8 +46,6 @@ I'm a professional transitioning into `data-driven` and `technology-focused` rol
 ## 💻 Projects
 
 ```python
-# I have major interest and been working on the fields below:
-
 * Financial Engineering;
 * Mathematics;
 * Physics;
