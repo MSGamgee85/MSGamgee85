@@ -27,7 +27,7 @@ I'm a professional transitioning into `data-driven` and `technology-focused` rol
 * Python 🐍
 * Data Analytics 📊
 * Risk Management Models 🧗‍♂️
-* Brazilian Bonds and Derivatives Pricing Models 💲
+* Brazilian Bonds and Derivatives Pricing Models💲
 
 ---
 
