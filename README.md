@@ -24,10 +24,10 @@
 
 I'm a professional transitioning into `data-driven` and `technology-focused` roles, currently `developing projects` involving:
 
-* Python
-* Data Analytics
-* Risk Management Models
-* Brazilian Bonds and Derivatives Pricing Models
+* Python 🐍
+* Data Analytics 📊
+* Risk Management Models 🧗‍♂️
+* Brazilian Bonds and Derivatives Pricing Models 💲
 
 ---
 
