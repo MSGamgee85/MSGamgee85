@@ -35,10 +35,10 @@ I'm a professional transitioning into `data-driven` and `technology-focused` rol
 
 ### Languages
 ```python
-* Python
-* HTML/CSS
-* Markdown
-* LaTeX
+* Python;
+* HTML / CSS;
+* Markdown;
+* LaTeX.
 ```
 
 ---
@@ -46,10 +46,12 @@ I'm a professional transitioning into `data-driven` and `technology-focused` rol
 ## 💻 Projects
 
 ```python
-* Financial Engineering
-* Mathematics
-* Physics
-* Economics
+# I have major interest and been working on the fields below:
+
+* Financial Engineering;
+* Mathematics;
+* Physics;
+* Economics.
 ```
 
 👉 You can check my work [here](https://github.com/MSGamgee85/Projetos).
