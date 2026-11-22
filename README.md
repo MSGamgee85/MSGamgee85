@@ -3,7 +3,7 @@
 ## Hi there!👋🏻 I'm Alexandre
 
 
-![header](https://github.com/MSGamgee85/MSGamgee85/blob/a78915963d16197af7f3724ae7c891f7ae972433/header_new.png)
+![header](https://github.com/MSGamgee85/MSGamgee85/blob/205fa33e4e3d1197247ed5802947fe783cdff9a4/header_us-en.png)
 
 ---
 
