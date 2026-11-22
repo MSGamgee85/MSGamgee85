@@ -65,7 +65,7 @@ I'm a professional transitioning into `data-driven` and `technology-focused` rol
 ---
 <div align="center">
   
-⭐ ```"Always learning, building and improving."```
+⭐ ```"Always in motion — always improving."```
 
 ![sonic_run](https://github.com/MSGamgee85/MSGamgee85/blob/cab9fbf7fa135940ea377ced819e83a01882513a/sonic_run.gif)
 
